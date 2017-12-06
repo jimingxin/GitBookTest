@@ -6,7 +6,7 @@
 
 
 
-##<span id= "jump1">小明</sapn>
+## <span id= "jump1">小明</sapn>
 
 - 嵌套列表1
 
@@ -20,7 +20,7 @@
 
 - 嵌套列表6
 
-###<span id= "jump1.1">小明的弟弟</sapn>
+### <span id= "jump1.1">小明的弟弟</sapn>
 
 
 
@@ -53,7 +53,7 @@
 
 - 嵌套列表6
 
-##<span id= "jump2">小红</sapn>
+## <span id= "jump2">小红</sapn>
 
 
 
